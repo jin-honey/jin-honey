@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi, I'm Taeheon Jin 👋
+
+Currently, I am pursuing my M.S. in Smart Factory Convergence at Sungkyunkwan University
 
 <!--
 **jin-honey/jin-honey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
