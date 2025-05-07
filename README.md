@@ -4,6 +4,14 @@ I am a Deep Learning Researcher focusing on unsupervised anomaly detection in ti
 Currently, I am pursuing my M.S. in Smart Factory Convergence at Sungkyunkwan University.
 
 ---
+
+### 💡 Technical Skills
+- **Languages**: python, Java, JavaScript  
+- **Frameworks**: TensorFlow, PyTorch  
+- **Interests**: Computer vision, Anomaly detection, Object segmentation, Vision-Language models
+
+---
+
 ### 🧠 Research & Conferences
 - **KICS Summer Conference 2024**  
   *First Author* — *"Research on Performance Improvement for Object Segmentation of Abdominal CT Image"*  
@@ -14,6 +22,18 @@ Currently, I am pursuing my M.S. in Smart Factory Convergence at Sungkyunkwan Un
   → Outperformed Transformer, GPT-2, and BART models.
 
 ---
+
+## 📚 Seminar on Thesis Research  
+
+| Date        | Title & Topic |
+|------------|--------------|
+| **2024-02-18** | Anomaly Detection of GAN Industrial Image Based on Attention Feature Fusion |
+| **2025-03-13** | Hard-Normal Example-Aware Template Mutual Matching for Industrial Anomaly Detection|
+| **2025-03-31** | A Disentangled VAE-BiLSTM Model for Heart Rate Anomaly Detection |
+| **2025-04-01** | Frailty Identification Using Heart Rate Dynamics: A Deep Learning Approach |
+
+---
+
 
 ### 💼 Experience
 - **Hongik University AIA Lab Internship** (2024.08 - 2024.11)  
@@ -28,13 +48,6 @@ Currently, I am pursuing my M.S. in Smart Factory Convergence at Sungkyunkwan Un
   Built using LangChain and ChatGPT API.
 - **DU CCS Club Website** (2023.03 - 2023.09)  
   Vue (front-end) & Spring Boot (back-end).
-
----
-
-### 💡 Technical Skills
-- **Languages**: python, Java, JavaScript  
-- **Frameworks**: TensorFlow, PyTorch  
-- **Interests**: Computer vision, Anomaly detection, Object segmentation, Vision-Language models
 
 ---
 
