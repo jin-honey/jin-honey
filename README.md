@@ -13,6 +13,9 @@ Currently, I am pursuing my M.S. in Smart Factory Convergence at Sungkyunkwan Un
 ---
 
 ### 🧠 Research & Conferences
+- **International Conference on Circuits, Systems, Communications and Computers(CSCC)**  
+  *Fourth Author* — *"AI and IoT-based Automated Camera Maintenance System: A Study of Improving Production Efficiency and Safety through Predictive Maintenance"*  
+
 - **KICS Summer Conference 2024**  
   *First Author* — *"Research on Performance Improvement for Object Segmentation of Abdominal CT Image"*  
   → Proposed HQ-SAM model application for improved segmentation.
@@ -20,6 +23,8 @@ Currently, I am pursuing my M.S. in Smart Factory Convergence at Sungkyunkwan Un
 - **Annual Symposium of KIPS 2024**  
   *Second Author* — *"Research on Lyric Generation conditioned on Accompaniment using T5"*  
   → Outperformed Transformer, GPT-2, and BART models.
+  
+
 
 ---
 
@@ -31,6 +36,14 @@ Currently, I am pursuing my M.S. in Smart Factory Convergence at Sungkyunkwan Un
 | **2025-03-13** | Hard-Normal Example-Aware Template Mutual Matching for Industrial Anomaly Detection|
 | **2025-03-31** | A Disentangled VAE-BiLSTM Model for Heart Rate Anomaly Detection |
 | **2025-04-01** | Frailty Identification Using Heart Rate Dynamics: A Deep Learning Approach |
+| **2025-05-01** | TadGAN: Time Series Anomaly Detection Using Generative Adversarial Networks |
+| **2025-06-01** | An Enhanced Autoencoder-based Anomaly Detection Model for time series Data from Wearable Medical Devices |
+| **2025-07-01** | Real-Time Deep Anomaly Detection Framework for Multivariate Time-Series Data in Industrial IoT |
+| **2025-07-15** | Time-series anomaly detection with stacked Transformer representations and 1D convolutional network  |
+| **2025-07-31** | Learning Latent Part-Whole Hierarchies for Point Clouds  |
+| **2025-07-15** | Time-series anomaly detection with stacked Transformer representations and 1D convolutional network  |
+| **2025-08-31** | LogicAD: Explainable Anomaly Detection via VLM-based Text Feature Extraction |
+
 
 ---
 
