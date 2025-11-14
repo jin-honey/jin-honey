@@ -1,4 +1,4 @@
-<img width="672" height="88" alt="image" src="https://github.com/user-attachments/assets/4946532d-27fd-469c-bc00-2bba8acc016c" />## Hi, I'm Taeheon Jin 👋
+## Hi, I'm Taeheon Jin 👋
 
 I am a Deep Learning Researcher focusing on unsupervised anomaly detection in time-series and image data.
 Currently, I am pursuing my M.S. in Smart Factory Convergence at Sungkyunkwan University.
