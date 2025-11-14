@@ -1,4 +1,4 @@
-## Hi, I'm Taeheon Jin 👋
+<img width="672" height="88" alt="image" src="https://github.com/user-attachments/assets/4946532d-27fd-469c-bc00-2bba8acc016c" />## Hi, I'm Taeheon Jin 👋
 
 I am a Deep Learning Researcher focusing on unsupervised anomaly detection in time-series and image data.
 Currently, I am pursuing my M.S. in Smart Factory Convergence at Sungkyunkwan University.
@@ -43,6 +43,9 @@ Currently, I am pursuing my M.S. in Smart Factory Convergence at Sungkyunkwan Un
 | **2025-07-31** | Learning Latent Part-Whole Hierarchies for Point Clouds  |
 | **2025-07-15** | Time-series anomaly detection with stacked Transformer representations and 1D convolutional network  |
 | **2025-08-31** | LogicAD: Explainable Anomaly Detection via VLM-based Text Feature Extraction |
+| **2025-09-23** | Personalizing Vision-Language Models With Hybrid Prompts for Zero-Shot Anomaly Detection |
+| **2025-09-30** | Towards Training-free Anomaly Detection with Vision and Language Foundation Models |
+| **2025-10-31** | AA-CLIP: Enhancing Zero-Shot Anomaly Detection via Anomaly-Aware CLIP |
 
 
 ---
