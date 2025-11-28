@@ -44,7 +44,7 @@ Currently, I am pursuing my M.S. in Smart Factory Convergence at Sungkyunkwan Un
 | **2025-07-15** | Time-series anomaly detection with stacked Transformer representations and 1D convolutional network  |
 | **2025-08-31** | LogicAD: Explainable Anomaly Detection via VLM-based Text Feature Extraction |
 | **2025-09-23** | Personalizing Vision-Language Models With Hybrid Prompts for Zero-Shot Anomaly Detection |
-| **2025-09-30** | Towards Training-free Anomaly Detection with Vision and Language Foundation Models |
+| **2025-10-30** | Towards Training-free Anomaly Detection with Vision and Language Foundation Models |
 | **2025-10-31** | AA-CLIP: Enhancing Zero-Shot Anomaly Detection via Anomaly-Aware CLIP |
 
 
