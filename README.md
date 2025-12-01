@@ -57,6 +57,24 @@ Currently, I am pursuing my M.S. in Smart Factory Convergence at Sungkyunkwan Un
 
 ---
 
+## 💡 Intellectual Property
+
+### Program Registrations
+- 심박수 이상 탐지 및 심박수 기반 건강 점수 산정 시스템
+  - 등록 번호: C-2025-021655
+  - 설명: 심박수 시계열 데이터 기반 
+- 차량 결함 자동 진단 및 복구 예측 시스템
+  - 등록 번호: C-2025-019655
+  - 설명: 차량 외관의 다양한 결함을 Mask R-CNN 모델로 자동 진단하고, 손상 부위의 복구 가능성을 판단하여 Stable Diffusion 기반 인페인팅(Inpainting) 모델을 통해 고품질의 복구 이미지를 자동 생성하는 통합 프로그램.
+- 웨어러블 건강 데이터 기반 다중 데이터 분석 및 개인 맞춤 피드백 생성 시스템
+  - 등록 번호: C-2025-022114
+  - 설명: 비정형 이미지 데이터를 효율적으로 학습 및 처리하여 다양한 환경과 결함 유형에 유연하게 확장 가능한 고성능 이미지 분석 프로그램.
+     
+### Patents
+- 인공지능 기반 이상 탐지 및 복구 가능성 예측 장치 및 방법 (출원 번호: 10-2025-0095368/ 25.07.15)
+
+---
+
 ### 🛠️ Projects
 - **YOLOv8 on Raspberry Pi 4** (2023.12 - 2024.01)  
   Object detection, segmentation, and tracking.
