@@ -47,8 +47,23 @@ Currently, I am pursuing my M.S. in Smart Factory Convergence at Sungkyunkwan Un
 | **2025-10-30** | Towards Training-free Anomaly Detection with Vision and Language Foundation Models |
 | **2025-10-31** | AA-CLIP: Enhancing Zero-Shot Anomaly Detection via Anomaly-Aware CLIP |
 | **2025-11-30** | LogicQA Logical Anomaly Detection with Vision Language Model Generated Questions |
+| **2025-12-30** | TMUAD: Enhancing Logical Capabilities in Unified Anomaly Detection Models with a Text Memory Bank |
+| **2025-01-19** | IAD-GPT: Advancing Visual Knowledge in Multimodal Large Language Model for Industrial Anomaly Detection |
+| **2025-01-30** | Visual Chain-of-Thought Prompting for Knowledge-Based Visual Reasoning |
+| **2025-02-15** | A Visual Language Model with Chain of Manipulations Reasoning |
+| **2025-02-28** | VidSeg: Training-free Video Semantic Segmentation based on Diffusion Models |
+| **2025-03-30** | Patch Matters: Training-free Fine-grained Image Caption Enhancement via Local Perception |
+| **2025-04-30** | Unleashing Text-to-Image Diusion Prior for Zero-Shot Image Captioning |
+
+---
 
 
+### Research Publications
+- ### Journal Articles
+  "Dual-Path Anomaly Detection Framework Based on Health Score for Personalized Recommendations in Wearable Devices" in IEEE Access(Submitted)
+
+- ### Conference Paper
+  "Training-free Logical Anomaly Detection via VLM-based Automated Prompting and Patch-Text Alignment" in ECCV 2026 (Submitted)
 
 ---
 
